@@ -11,3 +11,6 @@ To excecute LPQ++ for blurred texture recognition on KTH-TIPS dataset:<br>
 ~~~
 run LPQplusplus_classification.m
 ~~~
+
+## Contact
+For any question, please contact Zihao Zhu zihaozhu@hust.edu.cn
