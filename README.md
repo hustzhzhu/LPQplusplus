@@ -8,4 +8,4 @@ VLFeat package is required. The package has already been placed in the folder "v
 
 ## Run 
 To excecute LPQ++ for blurred texture recognition on KTH-TIPS dataset:<br>
-run LPQplusplus_classification.m
+    run LPQplusplus_classification.m
