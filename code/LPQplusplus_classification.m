@@ -69,7 +69,7 @@ for ii = 1:length(feaPath)
     end
 end
 
-%% Retrieve£¨¼ìË÷£»»Ö¸´£© the image dataset
+%% Retrieve the image dataset
 imgDatabase = retr_img_database(imgPath);
 
 %% Train and test
