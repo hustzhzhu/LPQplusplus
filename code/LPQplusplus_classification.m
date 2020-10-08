@@ -52,11 +52,11 @@ mem_block = 3000;                                        % maxmum number of test
 addpath('Libsvm/matlab');                   % Libsvm package
 
 imgPath = 'image/KTH_TIPS';                 % directory of the image database                             
-dataPath =  'data/KTH_TIPS/2';          % directory of the raw multi-view low-level descriptors
-feaPath = 'feature/KTH_TIPS/2';         % directory of the final image features
-gmmPath = 'gmm/KTH_TIPS/2';                   % directory of the GMM components
+dataPath =  'data/KTH_TIPS/1';          % directory of the raw multi-view low-level descriptors
+feaPath = 'feature/KTH_TIPS/1';         % directory of the final image features
+gmmPath = 'gmm/KTH_TIPS/1';                   % directory of the GMM components
 splitPath = 'sample_split/KTH_TIPS';        % directory of the sample split for train and test
-resPath = 'result/KTH_TIPS/2';                % directory of the classification result
+resPath = 'result/KTH_TIPS/1';                % directory of the classification result
 %% Delete the feature database of the previous experiment
 for ii = 1:length(feaPath)
     subfolders = dir(feaPath);
