@@ -3,6 +3,7 @@ This is the official Matlab implementation for "LPQ++: A Discriminative Blur-ins
 ![LPQ++](https://github.com/hustzhzhu/LPQplusplus/blob/main/IMG/main_idea.jpg)
 
 ## Citation
+If you find our work useful in your research, please consider citing:
 ~~~
 @article{zhu2020lpq++,
   title={LPQ++: A Discriminative Blur-insensitive Textural Descriptor with Spatial-channel Interaction},
